@@ -1,6 +1,6 @@
 # Banca 1 · BIBA 2026
 
-Una banca hecha con **una sola tira de Metalcon de 6 m**, la misma que se compra en cualquier ferretería. Se dobla, se remacha y se tensa con un cable de pata a pata. Sin soldadura, con herramientas de mano, en una tarde.
+Una banca hecha con **una sola tira de Metalcon de 6 m**. Se dobla, se remacha y se tensa con un cable de pata a pata. Sin soldadura.
 
 Proyecto de [@form4tic](https://instagram.com/form4tic) y [@asociativo_](https://instagram.com/asociativo_) para la **3ª Bienal de Bancas (BIBA 2026)**.
 
@@ -48,5 +48,3 @@ Mándanos una foto o abre un *issue* con tu versión. Las variaciones son bienve
 ## Licencia
 
 [CC BY-NC-SA 4.0](LICENSE). Puedes copiar, construir, modificar y compartir esta banca citando a Form4tic + Asociativo, siempre que no sea con fines comerciales y que tus variaciones usen la misma licencia.
-
-Es la misma regla de Mari: **para que la hagas tú, no para fabricarla y venderla.**
