@@ -2,12 +2,12 @@ grupo,id,pieza,especificacion,cantidad,material
 estructura,BIBA_001,Módulo pata,Perfil Metalcon plegado - 133.9 x 40.1 x 9.2 cm,2,Acero galvanizado
 estructura,BIBA_002,Módulo accesorios,Perfil Metalcon plegado - 120 x 20 x 9.2 cm,1,Acero galvanizado
 accesorio,BIBA_003,Cubierta de mesa,Disco 27.5 cm diámetro - 3 mm,1,Aluminio 6061
-impresion-3d,BIBA_004,Vínculo cubierta,9.0 x 3.8 x 3.0 cm,1,ABS o PETG
-impresion-3d,BIBA_006,Accesorio terminal,9.0 x 4.1 x 2.1 cm,4,ABS o PETG
-impresion-3d,BIBA_007,Pieza impresa 007,4.4 x 2.7 x 2.3 cm,4,ABS o PETG
-impresion-3d,BIBA_008,Pieza impresa 008,8.8 x 2.6 x 2.5 cm,2,ABS o PETG
-impresion-3d,BIBA_009,Vínculo cubierta,8.8 x 3.6 x 3.5 cm,1,ABS o PETG
-impresion-3d,BIBA_010,Pieza impresa 010,4.0 x 4.0 x 1.5 cm,6,ABS o PETG
+impresion-3d,BIBA_004,Vínculo cubierta,9.0 x 3.8 x 3.0 cm,1,PETG o PLA
+impresion-3d,BIBA_006,Accesorio terminal,9.0 x 4.1 x 2.1 cm,4,PETG o PLA
+impresion-3d,BIBA_007,Pieza impresa 007,4.4 x 2.7 x 2.3 cm,4,PETG o PLA
+impresion-3d,BIBA_008,Pieza impresa 008,8.8 x 2.6 x 2.5 cm,2,PETG o PLA
+impresion-3d,BIBA_009,Vínculo cubierta,8.8 x 3.6 x 3.5 cm,1,PETG o PLA
+impresion-3d,BIBA_010,Pieza impresa 010,4.0 x 4.0 x 1.5 cm,6,PETG o PLA
 ferreteria,,Remache pop,4 x 10 mm,14,Aluminio
 ferreteria,,Perno cabeza botón,M6 x 20 mm,10,Acero inoxidable
 ferreteria,,Perno cabeza plana,M6 x 25 mm,2,Acero inoxidable

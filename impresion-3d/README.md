@@ -11,4 +11,4 @@ STL exportados desde el modelo V02, en [`stl/`](stl/). Unidades: mm.
 | BIBA_009 | Vínculo cubierta | 1 | 8,8 × 3,6 × 3,5 |
 | BIBA_010 | — | 6 | 4,0 × 4,0 × 1,5 |
 
-Material sugerido: PETG o ABS.
+Material: PETG o PLA.
