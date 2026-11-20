@@ -1,21 +1,23 @@
-grupo,id,pieza,especificacion,cantidad,material
-estructura,BIBA_001,Módulo pata,Perfil Metalcon plegado - 133.9 x 40.1 x 9.2 cm,2,Acero galvanizado
-estructura,BIBA_002,Módulo accesorios,Perfil Metalcon plegado - 120 x 20 x 9.2 cm,1,Acero galvanizado
-accesorio,BIBA_003,Cubierta de mesa,Disco 27.5 cm diámetro - 3 mm,1,Aluminio 6061
-impresion-3d,BIBA_004,Vínculo cubierta,9.0 x 3.8 x 3.0 cm,1,PETG o PLA
-impresion-3d,BIBA_006,Accesorio terminal,9.0 x 4.1 x 2.1 cm,4,PETG o PLA
-impresion-3d,BIBA_007,Pieza impresa 007,4.4 x 2.7 x 2.3 cm,4,PETG o PLA
-impresion-3d,BIBA_008,Pieza impresa 008,8.8 x 2.6 x 2.5 cm,2,PETG o PLA
-impresion-3d,BIBA_009,Vínculo cubierta,8.8 x 3.6 x 3.5 cm,1,PETG o PLA
-impresion-3d,BIBA_010,Pieza impresa 010,4.0 x 4.0 x 1.5 cm,6,PETG o PLA
-ferreteria,,Remache pop,4 x 10 mm,14,Aluminio
-ferreteria,,Perno cabeza botón,M6 x 20 mm,10,Acero inoxidable
-ferreteria,,Perno cabeza plana,M6 x 25 mm,2,Acero inoxidable
-ferreteria,,Tuerca con seguro de nylon,M6,10,Acero inoxidable
-ferreteria,,Golilla,M6 (ID 6.4 / OD 12 mm),4,Acero inoxidable
-ferreteria,,Hilo corrido,1/4 in - 115 mm,4,Acero
-ferreteria,,Tuerca con seguro de nylon,1/4 in -20,8,Acero inoxidable
-ferreteria,,Golilla,1/4 in (ID 0.250 / OD 0.562 in),8,Acero
-tensado,,Tensor ojo-ojo,3/16 in,2,Acero
-tensado,,Cable de acero galvanizado,2 mm - tramos de ~65 cm,4,Acero galvanizado
-tensado,,Abrazadera para cable,1/8 in,4,Acero galvanizado
+ITEM,GRUPO O SUBCONJUNTO,PART NUMBER,DESCRIPCIÓN,MATERIAL,PROCESO,CANTIDAD
+1,A · Módulo pata (x2),BIBA_001_V02,Módulo pata,"Acero galvanizado (Metalcon e=0,85 mm)","Corte, destaje de alas, plegado manual y perforado",2
+2,A · Módulo pata (x2),BIBA_006_V04,Accesorio terminal,PETG o PLA,Impresión 3D FDM,4
+3,A · Módulo pata (x2),BIBA_007_V01,Pieza impresa (descripción pendiente),PETG o PLA,Impresión 3D FDM,4
+4,A · Módulo pata (x2),BIBA_008_V01,Pieza impresa (descripción pendiente),PETG o PLA,Impresión 3D FDM,2
+5,A · Módulo pata (x2),BIBA_010_V01,Pieza impresa (descripción pendiente),PETG o PLA,Impresión 3D FDM,6
+6,A · Módulo pata (x2),CAB-2-650,"Cable de acero Ø2 mm, tramo ~650 mm",Acero galvanizado,Corte a medida,4
+7,A · Módulo pata (x2),HC-1/4-115,"Hilo corrido 1/4"" G2, largo 115 mm",Acero,Corte a medida,4
+8,A · Módulo pata (x2),TEN-3/16,"Tensor ojo-ojo 3/16"" (cuerpo + 2 ojos)",Acero,Comercial (compra),2
+9,A · Módulo pata (x2),ABR-1/8,"Abrazadera para cable 1/8"" (U + puente)",Acero galvanizado,Comercial (compra),4
+10,A · Módulo pata (x2),TU-M6-NY,Tuerca M6 con seguro de nylon,Acero inoxidable 18-8,Comercial (compra),4
+11,A · Módulo pata (x2),PE-M6x20-BOT,"Perno M6 x 20 mm cabeza botón, hexágono interior",Acero inoxidable 18-8,Comercial (compra),6
+12,A · Módulo pata (x2),TU-1/4-NY,"Tuerca 1/4""-20 con seguro de nylon",Acero inoxidable 18-8,Comercial (compra),8
+13,A · Módulo pata (x2),GO-1/4,"Golilla plana 1/4"" (ID 6,35 / OD 14,3 mm)",Acero,Comercial (compra),8
+14,B · Módulo accesorios (x1),BIBA_002_V02,Módulo accesorios,"Acero galvanizado (Metalcon e=0,85 mm)","Corte, destaje de alas, plegado manual y perforado",1
+15,B · Módulo accesorios (x1),BIBA_003_V02,"Cubierta de mesa Ø275 mm, e=3 mm",Aluminio 6061,Corte CNC y perforado,1
+16,B · Módulo accesorios (x1),BIBA_004_V02,Vínculo cubierta,PETG o PLA,Impresión 3D FDM,1
+17,B · Módulo accesorios (x1),BIBA_009_V01,Vínculo cubierta,PETG o PLA,Impresión 3D FDM,1
+18,B · Módulo accesorios (x1),92125A242,"Perno M6 x 25 mm cabeza plana avellanada, hexágono interior",Acero inoxidable 18-8,Comercial (compra),2
+19,B · Módulo accesorios (x1),PE-M6x20-BOT,"Perno M6 x 20 mm cabeza botón, hexágono interior",Acero inoxidable 18-8,Comercial (compra),4
+20,B · Módulo accesorios (x1),TU-M6-NY,Tuerca M6 con seguro de nylon,Acero inoxidable 18-8,Comercial (compra),6
+21,B · Módulo accesorios (x1),GO-M6,"Golilla plana M6 (ID 6,4 / OD 12 mm)",Acero inoxidable 18-8,Comercial (compra),4
+22,Ensamble general,97447A806,Remache pop Ø4 x 10 mm (unión módulos A–B),Aluminio,Remachado · comercial (compra),14

@@ -41,7 +41,7 @@ Medidas generales: 139,8 × 29,9 × 59,8 cm (largo × profundidad × alto, inclu
 | Tensado | Tensor ojo-ojo 3/16" | 2 |
 | Tensado | Cable de acero galvanizado de 2 mm con abrazaderas de 1/8" | 4 tramos |
 
-Lista completa en [`piezas/lista-de-piezas.csv`](piezas/lista-de-piezas.csv).
+Lista de partes completa, por subconjunto, en [`piezas/lista-de-partes_V02.xlsx`](piezas/lista-de-partes_V02.xlsx) (también en [CSV](piezas/lista-de-piezas.csv)).
 
 ## Si la construyes
 
