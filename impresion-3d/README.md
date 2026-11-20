@@ -9,6 +9,6 @@ STL exportados desde el modelo V02, en [`stl/`](stl/). Unidades: mm.
 | BIBA_007 | — | 4 | 4,4 × 2,7 × 2,3 |
 | BIBA_008 | — | 2 | 8,8 × 2,6 × 2,5 |
 | BIBA_009 | Vínculo cubierta | 1 | 8,8 × 3,6 × 3,5 |
-| BIBA_010 | — | 6 | 4,0 × 4,0 × 1,5 |
+| BIBA_010 | Patín ajuste de altura | 6 | 4,0 × 4,0 × 1,5 |
 
-Material: PETG o PLA.
+Material: PLA.

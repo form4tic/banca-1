@@ -1,23 +1,23 @@
-ITEM,GRUPO O SUBCONJUNTO,PART NUMBER,DESCRIPCIÓN,MATERIAL,PROCESO,CANTIDAD
-1,A · Módulo pata (x2),BIBA_001_V02,Módulo pata,"Acero galvanizado (Metalcon e=0,85 mm)","Corte, destaje de alas, plegado manual y perforado",2
-2,A · Módulo pata (x2),BIBA_006_V04,Accesorio terminal,PETG o PLA,Impresión 3D FDM,4
-3,A · Módulo pata (x2),BIBA_007_V01,Pieza impresa (descripción pendiente),PETG o PLA,Impresión 3D FDM,4
-4,A · Módulo pata (x2),BIBA_008_V01,Pieza impresa (descripción pendiente),PETG o PLA,Impresión 3D FDM,2
-5,A · Módulo pata (x2),BIBA_010_V01,Pieza impresa (descripción pendiente),PETG o PLA,Impresión 3D FDM,6
-6,A · Módulo pata (x2),CAB-2-650,"Cable de acero Ø2 mm, tramo ~650 mm",Acero galvanizado,Corte a medida,4
-7,A · Módulo pata (x2),HC-1/4-115,"Hilo corrido 1/4"" G2, largo 115 mm",Acero,Corte a medida,4
-8,A · Módulo pata (x2),TEN-3/16,"Tensor ojo-ojo 3/16"" (cuerpo + 2 ojos)",Acero,Comercial (compra),2
-9,A · Módulo pata (x2),ABR-1/8,"Abrazadera para cable 1/8"" (U + puente)",Acero galvanizado,Comercial (compra),4
-10,A · Módulo pata (x2),TU-M6-NY,Tuerca M6 con seguro de nylon,Acero inoxidable 18-8,Comercial (compra),4
-11,A · Módulo pata (x2),PE-M6x20-BOT,"Perno M6 x 20 mm cabeza botón, hexágono interior",Acero inoxidable 18-8,Comercial (compra),6
-12,A · Módulo pata (x2),TU-1/4-NY,"Tuerca 1/4""-20 con seguro de nylon",Acero inoxidable 18-8,Comercial (compra),8
-13,A · Módulo pata (x2),GO-1/4,"Golilla plana 1/4"" (ID 6,35 / OD 14,3 mm)",Acero,Comercial (compra),8
-14,B · Módulo accesorios (x1),BIBA_002_V02,Módulo accesorios,"Acero galvanizado (Metalcon e=0,85 mm)","Corte, destaje de alas, plegado manual y perforado",1
-15,B · Módulo accesorios (x1),BIBA_003_V02,"Cubierta de mesa Ø275 mm, e=3 mm",Aluminio 6061,Corte CNC y perforado,1
-16,B · Módulo accesorios (x1),BIBA_004_V02,Vínculo cubierta,PETG o PLA,Impresión 3D FDM,1
-17,B · Módulo accesorios (x1),BIBA_009_V01,Vínculo cubierta,PETG o PLA,Impresión 3D FDM,1
-18,B · Módulo accesorios (x1),92125A242,"Perno M6 x 25 mm cabeza plana avellanada, hexágono interior",Acero inoxidable 18-8,Comercial (compra),2
-19,B · Módulo accesorios (x1),PE-M6x20-BOT,"Perno M6 x 20 mm cabeza botón, hexágono interior",Acero inoxidable 18-8,Comercial (compra),4
-20,B · Módulo accesorios (x1),TU-M6-NY,Tuerca M6 con seguro de nylon,Acero inoxidable 18-8,Comercial (compra),6
-21,B · Módulo accesorios (x1),GO-M6,"Golilla plana M6 (ID 6,4 / OD 12 mm)",Acero inoxidable 18-8,Comercial (compra),4
-22,Ensamble general,97447A806,Remache pop Ø4 x 10 mm (unión módulos A–B),Aluminio,Remachado · comercial (compra),14
+ITEM,GRUPO O SUBCONJUNTO,PART NUMBER,DESCRIPCIÓN,MATERIAL,STOCK,PROCESO,CANTIDAD
+1,SUBCONJUNTO PATA,BIBA_001_V02,MÓDULO PATA,"ACERO GALVANIZADO (METALCON E=0,85 MM)",FABRICACIÓN,CORTE Y PLEGADO,2
+2,SUBCONJUNTO PATA,BIBA_006_V04,ACCESORIO TERMINAL,PLA,FABRICACIÓN,IMPRESIÓN 3D,4
+3,SUBCONJUNTO PATA,BIBA_007_V01,PIEZA 007 (DESCRIPCIÓN PENDIENTE),PLA,FABRICACIÓN,IMPRESIÓN 3D,4
+4,SUBCONJUNTO PATA,BIBA_008_V01,PIEZA 008 (DESCRIPCIÓN PENDIENTE),PLA,FABRICACIÓN,IMPRESIÓN 3D,2
+5,SUBCONJUNTO PATA,BIBA_010_V01,PATÍN AJUSTE DE ALTURA,PLA,FABRICACIÓN,IMPRESIÓN 3D,6
+6,SUBCONJUNTO PATA,CABLE ACERO GALV_2MM_B,Cable acero galv. 2 mm x 650 mm,ACERO GALVANIZADO,COMERCIAL,TREFILADO,4
+7,SUBCONJUNTO PATA,HILO CORRIDO G2 1/4,"Hilo corrido G2 1/4"" x 115 mm",ACERO,COMERCIAL,LAMINADO DE ROSCA,4
+8,SUBCONJUNTO PATA,TENSOR OJO-OJO_3/16,"Tensor ojo/ojo ac zc 3/16x6 3/8""",ACERO GALVANIZADO,COMERCIAL,FUNDICIÓN,2
+9,SUBCONJUNTO PATA,ABRAZADERA CAB 1/8,"Abrazadera para cable 1/8"" ac zc",ACERO GALVANIZADO,COMERCIAL,FORJADO,4
+10,SUBCONJUNTO PATA,M6 CON SEGURO DE NYLON,Tuerca M6 c/seguro nylon inox,ACERO INOXIDABLE,COMERCIAL,FORJADO EN FRÍO,4
+11,SUBCONJUNTO PATA,M6x20 CAB BOTON PARKER,Perno M6x20 cab. botón allen inox,ACERO INOXIDABLE,COMERCIAL,FORJADO EN FRÍO,6
+12,SUBCONJUNTO PATA,1/4_20 THREAD SIZE,"Tuerca 1/4""-20 c/seguro nylon inox",ACERO INOXIDABLE,COMERCIAL,FORJADO EN FRÍO,8
+13,SUBCONJUNTO PATA,0.250 ID X 0.562 OD (1/4),"Golilla plana 1/4"" ac",ACERO,COMERCIAL,ESTAMPADO,8
+14,SUBCONJUNTO ACCESORIOS,BIBA_002_V02,MÓDULO ACCESORIOS,"ACERO GALVANIZADO (METALCON E=0,85 MM)",FABRICACIÓN,CORTE Y PLEGADO,1
+15,SUBCONJUNTO ACCESORIOS,BIBA_003_V02,CUBIERTA MESA Ø275 MM E=3 MM,ALUMINIO 6061,FABRICACIÓN,CORTE CNC Y PERFORADO,1
+16,SUBCONJUNTO ACCESORIOS,BIBA_004_V02,VÍNCULO CUBIERTA,PLA,FABRICACIÓN,IMPRESIÓN 3D,1
+17,SUBCONJUNTO ACCESORIOS,BIBA_009_V01,VÍNCULO CUBIERTA,PLA,FABRICACIÓN,IMPRESIÓN 3D,1
+18,SUBCONJUNTO ACCESORIOS,FLAT M6 X 25_INOXIDABLE,Perno M6x25 cab. plana allen inox,ACERO INOXIDABLE,COMERCIAL,FORJADO EN FRÍO,2
+19,SUBCONJUNTO ACCESORIOS,M6x20 CAB BOTON PARKER,Perno M6x20 cab. botón allen inox,ACERO INOXIDABLE,COMERCIAL,FORJADO EN FRÍO,4
+20,SUBCONJUNTO ACCESORIOS,M6 CON SEGURO DE NYLON,Tuerca M6 c/seguro nylon inox,ACERO INOXIDABLE,COMERCIAL,FORJADO EN FRÍO,6
+21,SUBCONJUNTO ACCESORIOS,GOLILLA X M6 ID6.4 OD12,Golilla plana M6 inox,ACERO INOXIDABLE,COMERCIAL,ESTAMPADO,4
+22,ENSAMBLE GENERAL,97447A806_4x1.5-3,Remache pop alum. 4x10 mm,ALUMINIO,COMERCIAL,FORJADO EN FRÍO,14
