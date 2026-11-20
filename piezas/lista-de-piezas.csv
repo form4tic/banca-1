@@ -1,12 +1,21 @@
-id,pieza,seccion_especificacion,largo_cm,cantidad,material,estructural
-A,Marco lateral,Perfil C 100x40x12x0.85,200,2,Acero galvanizado (Metalcon),si
-B,Perfil central,Perfil C 100x40x12x0.85,133.9,1,Acero galvanizado (Metalcon),si
-C,Remache pop,Ø4.0 x 6,,16,Aluminio,si
-D,Varilla roscada 3/8 + 4 tuercas + 4 golillas,3/8 in,12.4,4,Acero,si
-E,Tensor gancho-ojo,5/16 in,11.2,4,Acero,si
-F,Cable + 2 guardacabos + 4 abrazaderas,1/8 in,135,2,Acero,si
-G,Tapa de pata,Impresión 3D,,4,PETG,no
-H,Percha,Impresión 3D,,1,PETG,no
-I,Inserto de mesa,Impresión 3D,,1,PETG,no
-J,Cubierta,Plancha Ø30 x 0.2,,1,Acero,no
-K,Refuerzo de pliegue,Impresión 3D,,1,PETG,no
+grupo,id,pieza,especificacion,cantidad,material
+estructura,BIBA_001,Módulo pata,Perfil Metalcon plegado - 133.9 x 40.1 x 9.2 cm,2,Acero galvanizado
+estructura,BIBA_002,Módulo accesorios,Perfil Metalcon plegado - 120 x 20 x 9.2 cm,1,Acero galvanizado
+accesorio,BIBA_003,Cubierta de mesa,Disco 27.5 cm diámetro - 3 mm,1,Aluminio 6061
+impresion-3d,BIBA_004,Vínculo cubierta,9.0 x 3.8 x 3.0 cm,1,ABS o PETG
+impresion-3d,BIBA_006,Accesorio terminal,9.0 x 4.1 x 2.1 cm,4,ABS o PETG
+impresion-3d,BIBA_007,Pieza impresa 007,4.4 x 2.7 x 2.3 cm,4,ABS o PETG
+impresion-3d,BIBA_008,Pieza impresa 008,8.8 x 2.6 x 2.5 cm,2,ABS o PETG
+impresion-3d,BIBA_009,Vínculo cubierta,8.8 x 3.6 x 3.5 cm,1,ABS o PETG
+impresion-3d,BIBA_010,Pieza impresa 010,4.0 x 4.0 x 1.5 cm,6,ABS o PETG
+ferreteria,,Remache pop,4 x 10 mm,14,Aluminio
+ferreteria,,Perno cabeza botón,M6 x 20 mm,10,Acero inoxidable
+ferreteria,,Perno cabeza plana,M6 x 25 mm,2,Acero inoxidable
+ferreteria,,Tuerca con seguro de nylon,M6,10,Acero inoxidable
+ferreteria,,Golilla,M6 (ID 6.4 / OD 12 mm),4,Acero inoxidable
+ferreteria,,Hilo corrido,1/4 in - 115 mm,4,Acero
+ferreteria,,Tuerca con seguro de nylon,1/4 in -20,8,Acero inoxidable
+ferreteria,,Golilla,1/4 in (ID 0.250 / OD 0.562 in),8,Acero
+tensado,,Tensor ojo-ojo,3/16 in,2,Acero
+tensado,,Cable de acero galvanizado,2 mm - tramos de ~65 cm,4,Acero galvanizado
+tensado,,Abrazadera para cable,1/8 in,4,Acero galvanizado

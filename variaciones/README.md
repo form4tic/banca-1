@@ -1,9 +1,13 @@
 # Variaciones
 
-## V01 · Banca con mesa, percha y cables tensores
+## V02 · Banca con mesa y cables tensores
 
-Es la versión presentada a BIBA 2026 (modelo `banca_141026`). La parte central se dobla hacia arriba para extenderla y plegarla como mesa. Lleva una percha impresa en PETG y cables tensores de pata a pata.
+La versión final, la que se exhibe en BIBA 2026. Son dos módulos pata de Metalcon plegado y un módulo de accesorios. La mesa es un disco de aluminio de 3 mm sobre un soporte vertical, y las patas se tensan con cable de acero de 2 mm. Modelo en [`planos/`](../planos/).
+
+## V01 · Postulación
+
+Es la versión enviada a la bienal el 17 de octubre de 2026 (modelo `banca_141026`).
 
 ## Tu versión
 
-¿Cambiaste el largo, el número de patas o los accesorios? Agrega una carpeta `variaciones/<nombre>/` con una foto, los cambios respecto a la V01 y tus planos, y abre un *pull request*. Todas las variaciones se publican bajo la misma licencia CC BY-NC-SA 4.0.
+¿Cambiaste el largo, el número de patas o los accesorios? Agrega una carpeta `variaciones/<nombre>/` con una foto, los cambios respecto a la V02 y tus planos, y abre un *pull request*. Todas las variaciones se publican bajo la misma licencia CC BY-NC-SA 4.0.

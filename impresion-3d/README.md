@@ -1,12 +1,14 @@
 # Impresión 3D
 
-Accesorios **opcionales y no estructurales**: la banca funciona sin ellos.
+STL exportados desde el modelo V02, en [`stl/`](stl/). Unidades: mm.
 
-| | Pieza | Cant. | Material |
+| Pieza | Descripción | Cant. | Tamaño (cm) |
 |---|---|---|---|
-| G | Tapa de pata | 4 | PETG |
-| H | Percha | 1 | PETG |
-| I | Inserto de mesa | 1 | PETG |
-| K | Refuerzo de pliegue | 1 | PETG |
+| BIBA_004 | Vínculo cubierta | 1 | 9,0 × 3,8 × 3,0 |
+| BIBA_006 | Accesorio terminal | 4 | 9,0 × 4,1 × 2,1 |
+| BIBA_007 | — | 4 | 4,4 × 2,7 × 2,3 |
+| BIBA_008 | — | 2 | 8,8 × 2,6 × 2,5 |
+| BIBA_009 | Vínculo cubierta | 1 | 8,8 × 3,6 × 3,5 |
+| BIBA_010 | — | 6 | 4,0 × 4,0 × 1,5 |
 
-Los archivos STL se suben a esta carpeta.
+Material sugerido: PETG o ABS.

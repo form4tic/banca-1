@@ -6,6 +6,8 @@ Proyecto de [@form4tic](https://instagram.com/form4tic) y [@asociativo_](https:/
 
 > Exhibición: sábado 21 de noviembre de 2026, Coyancura 2223, Providencia, de 15:30 a 19:00.
 
+![Banca 1 · V02](planos/vistas/banca-1_V02_iso.png)
+
 ## La idea
 
 En 1974 Enzo Mari publicó *Autoprogettazione*: muebles que cualquiera puede construir con materiales comunes y herramientas básicas. Mari mandaba sus planos por correo con una sola condición: cualquiera podía usarlos para hacer sus propios muebles, salvo industrias y comerciantes.
@@ -16,30 +18,30 @@ Nos preguntamos cómo se reinterpreta ese manifiesto hoy y qué alternativa exis
 
 | Carpeta | Contenido |
 |---|---|
-| [`planos/`](planos/) | Lámina de fabricación y armado (escala 1:4, cotas en cm) |
+| [`planos/`](planos/) | Modelo 3D final V02 (STEP y Fusion .f3d) y vistas |
 | [`piezas/`](piezas/) | Lista de piezas y materiales |
 | [`instructivo/`](instructivo/) | Paso a paso de construcción |
-| [`variaciones/`](variaciones/) | Mesa plegable, percha y otras versiones |
-| [`impresion-3d/`](impresion-3d/) | Accesorios opcionales en PETG (no estructurales) |
+| [`variaciones/`](variaciones/) | Versiones de la banca y cómo aportar la tuya |
+| [`impresion-3d/`](impresion-3d/) | STL de las piezas impresas |
 | [`fotos/`](fotos/) | Proceso de taller |
 
-## Resumen de piezas
+## Resumen de piezas (V02)
 
-| | Pieza | Sección / especificación | Largo (cm) | Cant. |
-|---|---|---|---|---|
-| A | Marco lateral | Perfil C 100×40×12×0,85 | 200 | 2 |
-| B | Perfil central | Perfil C 100×40×12×0,85 | 133,9 | 1 |
-| C | Remache pop aluminio | Ø4,0 × 6 | — | 16 |
-| D | Varilla roscada 3/8" + 4 tuercas + 4 golillas | — | 12,4 | 4 |
-| E | Tensor gancho-ojo 5/16" | — | 11,2 | 4 |
-| F | Cable de acero 1/8" + 2 guardacabos + 4 abrazaderas | — | 135 | 2 |
-| G | Tapa de pata | Impresión PETG (opcional) | — | 4 |
-| H | Percha | Impresión PETG (opcional) | — | 1 |
-| I | Inserto de mesa | Impresión PETG (opcional) | — | 1 |
-| J | Cubierta | Plancha de acero Ø30 × 0,2 | — | 1 |
-| K | Refuerzo de pliegue | Impresión PETG (opcional) | — | 1 |
+Medidas generales: 139,8 × 29,9 × 59,8 cm (largo × profundidad × alto, incluida la mesa).
 
-A, B y el resto del perfil salen de la misma tira de 6 m. Detalle completo en [`piezas/lista-de-piezas.csv`](piezas/lista-de-piezas.csv).
+| Grupo | Pieza | Cant. |
+|---|---|---|
+| Estructura | Módulo pata BIBA_001 · perfil Metalcon plegado | 2 |
+| Estructura | Módulo accesorios BIBA_002 · perfil Metalcon plegado | 1 |
+| Mesa | Cubierta BIBA_003 · disco de aluminio Ø27,5 cm, 3 mm | 1 |
+| Impresión 3D | BIBA_004, 006, 007, 008, 009, 010 | 18 |
+| Uniones | Remache pop de aluminio 4 × 10 mm | 14 |
+| Uniones | Perno M6 (10 cabeza botón ×20, 2 cabeza plana ×25), tuercas con seguro y golillas | 12 |
+| Uniones | Hilo corrido 1/4" × 115 mm con tuercas con seguro y golillas | 4 |
+| Tensado | Tensor ojo-ojo 3/16" | 2 |
+| Tensado | Cable de acero galvanizado de 2 mm con abrazaderas de 1/8" | 4 tramos |
+
+Lista completa en [`piezas/lista-de-piezas.csv`](piezas/lista-de-piezas.csv).
 
 ## Si la construyes
 
